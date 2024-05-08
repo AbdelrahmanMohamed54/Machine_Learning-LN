@@ -1,7 +1,3 @@
-Certainly! Here's a README file that you can include with your code on GitHub:
-
----
-
 # Multivariate Gaussian Distributions
 
 This repository contains Python code to generate synthetic data for two classes using multivariate Gaussian distributions and visualize the data through scatter plots. The code covers three scenarios with different covariance structures to illustrate their impact on the distribution of data points.
@@ -48,6 +44,3 @@ The task involves generating synthetic data for two classes using multivariate G
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize the README as needed for your project. You can include additional sections such as acknowledgments, contributions, or troubleshooting instructions based on your requirements.
